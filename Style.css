@@ -1,0 +1,33 @@
+body{
+    background-image: linear-gradient(to right, #4ebddb, #e7f2f5, #4ebddb);
+
+
+}
+.navbar-nav {
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+.navbar {
+    margin-top: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+.parent{
+    margin-top: 70px;
+  
+}
+h1{
+    font-size: 60px;
+}
+.image { margin-top: -30px;
+}
+.nav-image {
+    height: 12%;
+    width: 12%;
+}
+.navbar-brand{
+    font-size: 30px ;
+    font-weight: 700;
+    font-style: italic;
+}
